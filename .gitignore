@@ -1,0 +1,21 @@
+# Dist
+dist/
+
+# Node modules
+node_modules/
+
+# Editor directories
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# TypeScript type cache
+*.tsbuildinfo
+
+# macOS
+.DS_Store
+
+
+# Others
+*.log
